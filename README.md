@@ -23,18 +23,6 @@ Um sistema simples de linha de comando (CLI) para gerenciar usuários, implement
 
 ---
 
-## 📁 Estrutura de Pastas
-
-src/
-└─ com/
-└─ example/
-└─ usermanagement/
-├─ Main.java # Ponto de entrada e CLI
-├─ User.java # Modelo de dados User
-└─ UserService.java # Lógica de negócio e persistência
-
----
-
 ## ▶️ Como Executar
 
 1. Clone o repositório:
